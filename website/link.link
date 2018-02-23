@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+                <html>
+                <body>
+
+                <h2 id="top">My Childhood</h2>
+
+                <p>I was born on July 13th, 1998 in Charlotte, North Carolina.
+                I moved to Scarborough, Maine when I was in 2nd grade.</p>
+                <p>I started playing sports since I could remember, however I didn't start my two favorite sports
+                football and track until I was in middle school. I loved them while I was in high school
+                and was fortunate enough to be be able to continue my athletic career in college.</p>
+                <p>I chose the University of Maine after I had a recruiting visit
+                in the spring of my senior year in high school, and I haven't regretted it since.</p>
+
+                <a href="#top">Go to top</a>
+                </body>
+                </html>
